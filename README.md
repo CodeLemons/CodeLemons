@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [PxlSounds](https://github.com/CodeLemons/PxlSounds)
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at [CodeLemons](https://github.com/CodeLemons)
 
 - 💬 Ask me about **Rails, Stimulus JS, SQL**
 
