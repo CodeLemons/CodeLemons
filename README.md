@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm good at OSU!**
 
+- ⚡ Check out my latest work [PxlSounds](http://www.pxlsounds.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
